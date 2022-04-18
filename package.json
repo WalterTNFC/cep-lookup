@@ -1,0 +1,28 @@
+{
+  "name": "cep-lookup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WalterTNFC/cep-lookup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WalterTNFC/cep-lookup/issues"
+  },
+  "homepage": "https://github.com/WalterTNFC/cep-lookup#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "express-rescue": "^1.1.31",
+    "joi": "^17.6.0",
+    "mysql2": "^2.3.3"
+  }
+}
